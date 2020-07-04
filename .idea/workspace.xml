@@ -3,10 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="243658a8-ce92-4620-9c50-251cd7c47905" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/-.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +11,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -42,8 +44,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1593798794851</updated>
-      <workItem from="1593798800266" duration="2887000" />
+      <workItem from="1593798800266" duration="3436000" />
     </task>
+    <task id="LOCAL-00001" summary="new xml">
+      <created>1593831293399</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593831293399</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -54,21 +64,56 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="dev" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="new xml" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="572" y="113" key="CommitChangelistDialog2" timestamp="1593830703992">
+    <state x="695" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593831835546">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="572" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593830703992" />
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1593830552330">
+    <state x="695" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1593831835546" />
+    <state x="572" y="113" key="CommitChangelistDialog2" timestamp="1593831821358">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593830552330" />
+    <state x="572" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1593831821358" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1593831272355">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593831272355" />
     <state x="717" y="210" key="FileChooserDialogImpl" timestamp="1593830284647">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -85,6 +130,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="699" y="227" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593830760929" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1593831364550">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593831364550" />
     <state x="754" y="438" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593830679570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
